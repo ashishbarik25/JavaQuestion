@@ -1,0 +1,25 @@
+What is Exception ?
+What are the reason for exception ?
+What is the meaning of exception handling and how we can handle it?
+What is the difference between Exception and Error ?
+Hierarchy of Exception classes ?
+How JVM handle the exception ?
+What are the types of exception ?
+Difference between checked and unchecked exception ?
+How many way we can handle multiple exception ?
+What should be the hierarchy when we handle multiple exception ?
+Difference between throws and throw keyword ?
+What is rethrowing/exception chaining exception and where do we need ?
+Throwable is class or interface ?
+How we can create custom exception ?
+How many way we can add message to custom exception ?
+What is try with resources statement ?
+Exception throwing with method overriding ?
+    When super class method is not specified with method level exception
+    Then subclass may throw ?
+    When super class method is specified with method level checked exception
+    Then subclass may throw ?
+    When super class method is specified with method level unchecked exception
+    Then subclass may throw ?
+
+What is difference between classNotFound Exception and noClassDefFound Error ?

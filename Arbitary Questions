@@ -19,6 +19,12 @@ public void doPost(HttpServelet req,HttpServlet res ){
 7).how to do cokiee management in rest ?
 8)select count(*) from Customer cust1 ,Customer cust2 ,Customer cust3
 Custumer table having 5 records then what will be the output ?
-9).
+9).<import resource = "fileName1.xml"/>
+    <import resource = "D:/test/fileName2.xml"/>
+    <import resource = "E:/data/fileName3.xml"/>
+    a. it is use to get the bean from multiple resource 
+    b.it is used configure the path of the files as they are not available under src folder
+    which one is correct a or b ?
+10).
 
 

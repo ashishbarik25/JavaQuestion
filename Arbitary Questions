@@ -1,1 +1,24 @@
+1).How to configure bean in spring xml to inject an Enum ?
+2).How many times it will print "my name is ashish" and is there any chance of dead Lock ? 
+public void doGet(HttpServelet req,HttpServlet res ){
+  Syso("my name is ashish");
+  out.Write("my name is ashish");
+  doPost(req,res);
+}
+public void doPost(HttpServelet req,HttpServlet res ){
+ doGet(req,res);
+}
+3).how many way we can inject array in spring ?
+ a.setter
+ b.constructor
+ c.autodetect
+ 
+4).where do we register the controller in case xml ?
+5).how we can set multiple name for a peticular Bean in case XML ?
+6) in case annotation if we are configuring multiple bean with same Id and with one bean we are using @primary then ,will it give error ?
+7).how to do cokiee management in rest ?
+8)select count(*) from Customer cust1 ,Customer cust2 ,Customer cust3
+Custumer table having 5 records then what will be the output ?
+9).
+
 

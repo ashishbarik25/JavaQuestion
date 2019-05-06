@@ -25,6 +25,7 @@ Custumer table having 5 records then what will be the output ?
     a. it is use to get the bean from multiple resource 
     b.it is used configure the path of the files as they are not available under src folder
     which one is correct a or b ?
-10).
+10).Default constructor is always private or public or what ?
+11).what is the default priority of Thread ?
 
 
